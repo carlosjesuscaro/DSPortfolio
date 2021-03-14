@@ -13,3 +13,21 @@ body, html {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.dropdown-item:hover {
+  background-color: rgba(203,68,74,1);
+}
+
+.display-1 {
+  font-size: 96px;
+  /*text-shadow: 1px 1px #F7C144;*/
+  font-weight: bold;
+}
+
+.back {
+  background-color: rgba(7,7,7,1);
+}
+
+.back-nav {
+  background-color: rgba(7,7,7,0.9);
+}
